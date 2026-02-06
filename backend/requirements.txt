@@ -1,0 +1,12 @@
+hsemotion
+fastapi
+uvicorn
+python-multipart
+ultralytics
+opencv-python-headless
+numpy
+scikit-learn
+transformers
+torch
+torchvision
+pillow
